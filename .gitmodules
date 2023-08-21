@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Chelsea-Mogwo/book-wiz-backend
+[submodule "client"]
+	path = client
+	url = https://github.com/ollie-byrne99/Lap_2_Client_Side
